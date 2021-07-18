@@ -1,0 +1,15 @@
+.recommended {
+  width: 88%;
+  display: flex;
+  justify-content: center;
+}
+
+.reccomended-card {
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 95%;
+}
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}

@@ -1,0 +1,11 @@
+.sidebar {
+  width: 12%;
+  padding-top: 20px;
+}
+
+.sidebar > hr {
+  height: 1px;
+  border: 0;
+  margin: 10px 0px;
+  background-color: #e5e5e5;
+}

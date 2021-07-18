@@ -1,0 +1,21 @@
+.video {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+.video-content {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.video-main {
+  display: flex;
+  width: 65%;
+  margin-top: 30px;
+}
+.video-sub {
+  display: flex;
+  width: 25%;
+  flex-direction: column;
+  margin-top: 25px;
+}
